@@ -117,7 +117,7 @@ export const projects = [
       'A powerful and user-friendly php application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.',
     image: eccLogo,
     tags: ['React JS', 'CSS', 'Node JS', 'Express JS', 'MongoDB'],
-    github: 'https://github.com/GANGOTRIRAJPUT/Ecommerce',
+    github: 'https://github.com/GANGOTRIRAJPUT/quickshow',
   },
 
 ];
