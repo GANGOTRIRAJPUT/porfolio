@@ -96,7 +96,7 @@ export const projects = [
     id: 0,
     title: 'Job Portal Website',
     description:
-      'NexusJobs revolutionizes the hiring process using the MERN stack, offering a seamless experience for job seekers and recruiters.',
+      'NexusJobs revolutionizes the hiring process for the tech world. Built on the modern MERN stack (MongoDB, Express.js, React.js, Node.js), our platform delivers a seamless, real-time experience for developers seeking their next role and companies hunting for top-tier talent For Job Seekers Craft a stunning profile, discover curated opportunities from innovative startups and established giants, and apply with a single click. Our intelligent algorithm matches your skills with the perfectFor Job Seekers Craft a stunning profile, discover curated opportunities from innovative startups and established giants, and apply with a single click. intelligent algorithm matches your skills with the perfect job',
     image: jobLogo,
     tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'API'],
     github: 'https://github.com/GANGOTRIRAJPUT/JobPortalMernstack',
@@ -105,7 +105,7 @@ export const projects = [
     id: 1,
     title: 'Travel Book Website',
     description:
-      'A PHP-based application that fetches and displays GitHub profile data in a user-friendly way.',
+      'A powerful and user-friendly php application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters',
     image: bookLogo,
     tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'SQL'],
     github: 'https://github.com/GANGOTRIRAJPUT/mybookmark',
@@ -114,7 +114,7 @@ export const projects = [
     id: 2,
     title: 'Ecommerce Website',
     description:
-      'A MERN-based ecommerce platform with secure authentication and product management.',
+      'A powerful and user-friendly php application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.',
     image: eccLogo,
     tags: ['React JS', 'CSS', 'Node JS', 'Express JS', 'MongoDB'],
     github: 'https://github.com/GANGOTRIRAJPUT/Ecommerce',
@@ -130,8 +130,8 @@ export const experiences = [
     company: 'Mauli Kyanshufoundation',
     date: 'September 2025 - Present',
     desc:
-      'Developed scalable MERN applications, REST APIs, and responsive UIs in an agile environment.',
-    skills: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Node JS', 'MongoDB'],
+      'Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.".',
+    skills: ['HTML', 'CSS', 'JavaScript', 'php', 'Node JS', 'sql'],
   },
   {
     id: 1,
@@ -140,7 +140,7 @@ export const experiences = [
     company: 'IMRD Tech Club',
     date: 'September 2023 - Present',
     desc:
-      'Conducted workshops, mentored students, and improved communication and leadership skills.',
+      'Conducted workshops and bootcamps on coding, non-technical topics, and professional skills.Delivered structured training sessions to improve technical knowledge, communication, and career readiness.Led and mentored a team of 6 members, strengthening collaboration, leadership, and public speaking skills',
     skills: ['HTML', 'CSS', 'JavaScript', 'Leadership', 'Presentation'],
   },
   {
@@ -150,7 +150,7 @@ export const experiences = [
     company: 'Vhyastra Team',
     date: '2025 - Present',
     desc:
-      'Supported team planning, mentored members, and coordinated technical and non-technical activities.',
+      'Served as a Team Co-Leader at Vhyastra, supporting team planning, coordination, and execution of projects and events.Collaborated closely with the team leader to guide members, distribute tasks, and track progress to meet goals effectively.Assisted in organizing technical and non-technical activities while ensuring smooth communication within the team.Mentored team members, encouraged participation, and helped build confidence, teamwork, and leadership skills.Contributed to maintaining a productive and collaborative environment by resolving issues and motivating the team',
     skills: ['Collaboration', 'Time Management', 'Problem Solving'],
   },
 ];
@@ -164,6 +164,7 @@ export const education = [
     date: 'June 2019 - March 2020',
     grade: '91%',
     degree: 'SSC (X)',
+    desc: "I completed my class 10e education from kanya high school, Govardhan, under the SSC board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
   },
   {
     id: 1,
@@ -172,6 +173,7 @@ export const education = [
     date: 'June 2021 - March 2022',
     grade: '88.5%',
     degree: 'HSC (XII)',
+    desc: "I completed 12th std P R Ghogre , SPDM. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
   },
   {
     id: 2,
@@ -180,5 +182,6 @@ export const education = [
     date: 'June 2023 - May 2026',
     grade: '9.86 CGPA',
     degree: 'Bachelor of Computer Applications (BCA)',
+    desc: "I have completed my Bachelor's degree (BCA) in Computer Applications from KBC University, jalgoan. During my time at GLA, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
   },
 ];
