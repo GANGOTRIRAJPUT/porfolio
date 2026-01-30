@@ -119,6 +119,20 @@ export const projects = [
     tags: ['React JS', 'CSS', 'Node JS', 'Express JS', 'MongoDB'],
     github: 'https://github.com/GANGOTRIRAJPUT/Ecommerce',
   },
+
+  { id: 3, 
+   title: "Cinema Ticket Reservation System", 
+   description: "A full-stack MERN application that allows users to browse available shows, select seats, and book tickets online. Includes user authentication, seat availability management, and secure booking",
+   image: eccLogo, // you can change image later 
+   tags: ["React JS", "Node JS", "Express JS", "MongoDB", "JWT"],
+   github: "https://github.com/your-username/cinema-ticket-booking", }
+  },
+  { id: 4,
+   title: "Real-Time Communication Platform", 
+   description: "A MERN-based real-time communication platform featuring user authentication, one-to-one and group conversations, online status indicators, and message persistence using WebSockets and MongoDB.",
+   image: bookLogo, 
+   tags: ["React JS", "Node JS", "Express JS", "MongoDB", "Socket.io"], 
+   github: "https://github.com/your-username/realtime-communication-app", },
 ];
 
 // ================= EXPERIENCE =================
@@ -141,7 +155,7 @@ export const experiences = [
     date: 'September 2023 - Present',
     desc:
       'Conducted workshops and bootcamps on coding, non-technical topics, and professional skills.Delivered structured training sessions to improve technical knowledge, communication, and career readiness.Led and mentored a team of 6 members, strengthening collaboration, leadership, and public speaking skills',
-    skills: ['HTML', 'CSS', 'JavaScript', 'Leadership', 'Presentation'],
+    skills: ["HTML", "CSS", "Javascript", "Confidence", "Presentation", "Leadership",],
   },
   {
     id: 2,
@@ -151,7 +165,7 @@ export const experiences = [
     date: '2025 - Present',
     desc:
       'Served as a Team Co-Leader at Vhyastra, supporting team planning, coordination, and execution of projects and events.Collaborated closely with the team leader to guide members, distribute tasks, and track progress to meet goals effectively.Assisted in organizing technical and non-technical activities while ensuring smooth communication within the team.Mentored team members, encouraged participation, and helped build confidence, teamwork, and leadership skills.Contributed to maintaining a productive and collaborative environment by resolving issues and motivating the team',
-    skills: ['Collaboration', 'Time Management', 'Problem Solving'],
+    skills: ["Collaboration", "Time Management", "Problem Solving", "Confidence", "Presentation", "Leadership"],
   },
 ];
 
