@@ -120,19 +120,6 @@ export const projects = [
     github: 'https://github.com/GANGOTRIRAJPUT/Ecommerce',
   },
 
-  { id: 3, 
-   title: "Cinema Ticket Reservation System", 
-   description: "A full-stack MERN application that allows users to browse available shows, select seats, and book tickets online. Includes user authentication, seat availability management, and secure booking",
-   image: eccLogo, // you can change image later 
-   tags: ["React JS", "Node JS", "Express JS", "MongoDB", "JWT"],
-   github: "https://github.com/your-username/cinema-ticket-booking", }
-  },
-  { id: 4,
-   title: "Real-Time Communication Platform", 
-   description: "A MERN-based real-time communication platform featuring user authentication, one-to-one and group conversations, online status indicators, and message persistence using WebSockets and MongoDB.",
-   image: bookLogo, 
-   tags: ["React JS", "Node JS", "Express JS", "MongoDB", "Socket.io"], 
-   github: "https://github.com/your-username/realtime-communication-app", },
 ];
 
 // ================= EXPERIENCE =================
